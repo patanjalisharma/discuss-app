@@ -33,8 +33,7 @@ Follow the steps below to clone the repo and run the app locally:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/discuss-app.git
-cd discuss-app
+git clone https://github.com/patanjalisharma/discuss-app.git
 ```
 
 ### 2. Install dependencies
