@@ -44,12 +44,6 @@ Using npm:
 npm install
 ```
 
-Or using yarn:
-
-```bash
-yarn install
-```
-
 ### 3. Set up the database
 
 Initialize the SQLite database using Prisma:
